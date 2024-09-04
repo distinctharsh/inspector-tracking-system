@@ -1,2 +1,5 @@
-# inspector-tracking-system
-inspector-tracking-system
+<<<<<<< HEAD
+Your changes here.
+=======
+Remote changes here.
+>>>>>>> commit-hash
